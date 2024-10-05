@@ -1,0 +1,1 @@
+a mirror of the test suite used in "S. Maleki, Y. Gao, M. J. Garzarán, T. Wong and D. A. Padua, "An Evaluation of Vectorizing Compilers," 2011 International Conference on Parallel Architectures and Compilation Techniques, Galveston, TX, USA, 2011, pp. 372-382, doi: 10.1109/PACT.2011.68.", since the original link is now dead and getting ahold of this is non-trivial 
